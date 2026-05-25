@@ -1,0 +1,23 @@
+{
+    "dev": [
+        "580414690472230962", "1115439448973398036"
+    ],
+    "token": "Your_Token_Is_Here",
+    "prefix": "+",
+    "messages": {
+        "COOLDOWN_MESSAGE": "انتظر <duration> قبل استخدام الأمر مرة أخرى"
+            },
+    "serverid": "Your_Server_ID_Here",
+    "allowedGuilds": ["Your_Server_ID_Here"],
+    "reviewChannel": "1408763938212151366",
+    "supportServer": "https://discord.gg/x2QqPMP9WB",
+    "botid": "1399466864928755873",
+    "bankid": "1124326243685388478",
+    "probotid": "282859044593598464",
+    "ProBot_Premium ": "282859044593598464",
+    "clientrole": "1364373683145015326",
+    "parent": "1504912090807140465",
+    "channellog": "1504912148260982844",
+    "VoiceID": "1504912922542084106",
+    "SupportID": "1364373758889955438"
+}
